@@ -5,8 +5,8 @@
 #include <iostream>
 #include <string>
 #include "binary.h"
-#include "../../../bson-cxx/src/bson/json.h"
-#include "../../../bson-cxx/src/bson/bsonobjbuilder.h"
+#include "../../bson-cxx/src/bson/json.h"
+#include "../../bson-cxx/src/bson/bsonobjbuilder.h"
 #include "cmdline.h"
 
 using namespace std;

@@ -2,8 +2,8 @@
 #include <iostream>
 #include "stdio.h"
 #include "binary.h"
-#include "../../../bson-cxx/src/bson/hex.h"
-#include "../../../bson-cxx/src/bson/endian.h"
+#include "../../bson-cxx/src/bson/hex.h"
+#include "../../bson-cxx/src/bson/endian.h"
 #include "cmdline.h"
 
 using namespace std;

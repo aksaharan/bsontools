@@ -5,9 +5,9 @@
 #include <iostream>
 #include <string>
 #include "binary.h"
-#include "../../../bson-cxx/src/bson/json.h"
-#include "../../../bson-cxx/src/bson/bsonobjbuilder.h"
-#include "../../../bson-cxx/src/bson/bsonobjiterator.h"
+#include "../../bson-cxx/src/bson/json.h"
+#include "../../bson-cxx/src/bson/bsonobjbuilder.h"
+#include "../../bson-cxx/src/bson/bsonobjiterator.h"
 #include "cmdline.h"
 #include "parse_types.h"
 #include "../util/str.h"

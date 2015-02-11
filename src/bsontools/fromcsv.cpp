@@ -2,8 +2,8 @@
 #include "binary.h"
 #include <iostream>
 #include <string>
-#include "../../../bson-cxx/src/bson/json.h"
-#include "../../../bson-cxx/src/bson/bsonobjbuilder.h"
+#include "../../bson-cxx/src/bson/json.h"
+#include "../../bson-cxx/src/bson/bsonobjbuilder.h"
 #include "cmdline.h"
 #include "parse_types.h"
 

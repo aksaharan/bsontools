@@ -1,9 +1,9 @@
 #include <iostream>
 #include <fstream>
 #include "binary.h"
-#include "../../../bson-cxx/src/bson/bsonobj.h"
-#include "../../../bson-cxx/src/bson/bsonobjiterator.h"
-#include "../../../bson-cxx/src/bson/bsonobjbuilder.h"
+#include "../../bson-cxx/src/bson/bsonobj.h"
+#include "../../bson-cxx/src/bson/bsonobjiterator.h"
+#include "../../bson-cxx/src/bson/bsonobjbuilder.h"
 #include "cmdline.h"
 #include <deque>
 #include <map>
