@@ -1,3 +1,3 @@
 [submodule "bson-cxx"]
 	path = bson-cxx
-	url = git@github.com:dwight/bson-cxx
+	url = git://github.com/dwight/bson-cxx.git
