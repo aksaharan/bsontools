@@ -15,9 +15,8 @@ See the [doc/](doc) folder.
 
 ## Building
 
-You will need the [bson-cxx](https://github.com/dwight/bson-cxx) library (a dependancy) to build the tools.  It is available on github.
-
-Place it as a peer level directory on disk with bsontools.  (That is you will see lines such as `#include "../../../bson-cxx/"` in the source code of these tools...)
+The [bson-cxx](https://github.com/dwight/bson-cxx) library (a dependancy) is added as a submodule to this project and should be availble when building the tools. 
+Initially cloning a repository with --recursive will clone the submodule as well.
 
 To build with scons, assuming it is installed, just type "scons".
 
@@ -43,7 +42,3 @@ Some automated tests would be real helpful for example...
 ## Support
 
 For help try posting to the [BSON Google Groups forum](https://groups.google.com/forum/#!forum/bson).
-
-
-
-
